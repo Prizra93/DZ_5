@@ -32,3 +32,4 @@ void insertSort(int array[], int length) {
         }
         cout << array[n] << " ";
     }
+}
