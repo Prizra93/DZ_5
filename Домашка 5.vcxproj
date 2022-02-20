@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="LeftSort.h" />
+    <ClInclude Include="MixFunc.h" />
+    <ClInclude Include="RightSort.h" />
+    <ClInclude Include="Search.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
