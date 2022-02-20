@@ -1,5 +1,5 @@
 #include<iostream>
-#include<math.h>
-#include<iomanip>
+#include<stdlib.h>
+#include<time.h>
 
 using namespace std;
